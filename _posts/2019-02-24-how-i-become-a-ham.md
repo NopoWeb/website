@@ -22,15 +22,25 @@ When i asked my friend how to joined he told me either one of my parent should b
 
 When i’m back in my home town *(yes, i’m from cebu originally)* i’m already working and earning some money already i attempted to join a civic communication group. It didn't worked well, since at that time i still believe that radio is still expensive, despite i’m already earning is still not an option for me, and the group i inquired never replied to me. So i just move forward thinking that i will never be into this, maybe its not really for me. Or is it?
 
+{% include image.html url="https://miro.medium.com/max/700/1*e83emQWsUM-om3tq9ZHq7Q.jpeg" description="More like, 5 years!" %}
+
 I was able to see an old friend Ariel from a previous company where i used to work, he is carrying a portable radio. I quickly asked him about it, and he said he is a licensed amateur radio operator or ham and he holds a licensed with a call sign of *DW7FAL (he is now DV7FAL).* I told him about my story about radio and he invited me to join their club, Ham Radio Cebu (DX7CBU). That time i never think twice and immediately grab the opportunity.
 
-During this time i have no idea what is amateur radio nor even bother to google it, maybe i’m just hyped up that now i got a chance to become something that i wasn't able to do 20 years ago. He even suggested me a certain brand of radio which to my surprised its cheaper than i expected. I always have the notion that portable radio is still expensive since thats what i remember during the time when i’m so interested about it, maybe it got stuck on my that it never rubs off.
+{% include image.html url="https://miro.medium.com/max/300/1*8cf6oW-I7Z4ONCsPhwijDA.jpeg" description="My club Ham Radio Cebu (DX7CBU)" %}
+
+During this time i have no idea what is amateur radio nor even bother to google it, maybe i’m just hyped up that now i got a chance to become something that i wasn't able to do 20 years ago. He even suggested me a certain brand of radio which to my surprised its cheaper than i expected. I always have the notion that portable radio is still expensive since thats what i remember during the time when i’m so interested about it, maybe it got stuck on me that it never rubs off.
 
 I bought my first portable radio, it was a Cignus UV-85+ HP and a whip antenna, despite that i don’t have proper orientation yet *(the DX7CBU orientation is still on the weekend).* The club president give me a temporary callsign 7HCJ *(originally it was 7HJC but was later changed due to conflict with another member call sign).* I did a signal check to the DX7CBU repeater using only stock knowledge on how to operate a radio. I remember Ralph *(DV7MJL)* responded to me, but somehow my signal is not propagating properly.
+
+{% include image.html url="https://miro.medium.com/max/350/1*kT2DUSyf58sBf1Ad6CMAxg.png" %}
+
+> I just focus on something that i’m sure ill pass, then ill worry the others later… — Me    
 
 ## The moment of truth…
 
 Exam, day i reviewed for couple days, i keep my expectation low so i don’t get disappointed, i focused on Element 2 Radio Laws since i’m sure i can pass this one. However, for element 3 and 4 somehow i’m a bit skeptic since it includes numbers and calculations i don’t really do well with this *(despite that i have the same course back in college).* I failed 3 and 4 but pass element 2, now i’m officially an amateur holding a Class D license with a call sign of DY7LFU.
+
+{% include image.html url="https://miro.medium.com/max/700/1*qtkKJrjuIf1iHAGnTYs5ZA.jpeg" description="My Amateur Radio Station License (ARSL)" %}
 
 ## Worrying the later….
 
@@ -42,7 +52,17 @@ Taking that exam on other province was fun, exciting and rewarding. Because its 
 
 ## Class C, finally…
 
-Alas, i pass the exam now i’m officially Class C with the cag
+{% include image.html url="https://miro.medium.com/max/700/1*dmVJVknEfBY7zwXcUC43GQ.jpeg" %}
+
+Alas, i pass the exam now i’m officially Class C with the callsign of DW7LFU
+
+{% include image.html url="https://miro.medium.com/max/700/1*CVg-tQ9tlYVRVrvW3sc_Qg.jpeg" description="My current Amateur Radio Station License (ARSL)" %}
+
+Beside from passing the exam, i met some friends there.
+
+{% include image.html url="https://miro.medium.com/max/700/1*tq1Vl9GbE7jeMEOMVS84Zg.jpeg" description="Me, DU7FCC and DV7FCX together with CUERA" %}
+
+## Keep moving
 
 I move forward and upgrade to Class B only this time i failed twice *(i failed twice as well when i upgrade to Class C),* partly because i was too busy on my day job that i don’t find any time anymore to review, nonetheless i still take the exam because its a passion *(i know reviewing is not really my thing, i learned from experiencing it personally, and not much of academics).*
 
@@ -56,6 +76,10 @@ I’m still gonna take the exam this year, but i made sure this time that i will
 
 I always consider myself as an educator, i love teaching other people get them informed. Recently i’m into educating scouts for JOTA and for their radio badge. I enjoy it a lot, thats where i found my calling… i’m an educator.
 
+{% include image.html url="https://miro.medium.com/max/700/1*YO91qQAMMuQTa4Gzsh-chA.jpeg" %}
+
+{% include image.html url="https://miro.medium.com/max/700/1*HGyKMhqQAMfioa_DrIpOcA.jpeg" %}
+
 ## Today…
 
 Focusing on my advocacy to educate other people about ham radio, i became active on my once dormant facebook page Ham Philippines. I started creating original content that helps educating people about the hobby. I will continue to do so until i can still do it.
@@ -63,3 +87,18 @@ Focusing on my advocacy to educate other people about ham radio, i became active
 ## Why i’m a ham?
 
 I love technology, apart from that i love talking to people from far away. I know i can achieve that through modern technology like Internet i just don’t feel complete. So, i combined the best of this world.
+
+{% include image.html url="https://miro.medium.com/max/700/1*bLMS_dywvNs2sq6kJiXwNg.jpeg" %}
+
+## Future
+
+I will continue to educate people, and hope that more people like me would do as well. I will try to encourage them..
+
+Things that i do really…
+
+{% include image.html url="https://miro.medium.com/max/700/1*o7OKJUsng_SJRgcMp-A_DQ.jpeg" %}
+{% include image.html url="https://miro.medium.com/max/700/1*D_zcRXTnrnwBgeia4rLSuw.jpeg" %}
+{% include image.html url="https://miro.medium.com/max/700/1*MRaWE_mkskbU7XXr1R7UMQ.jpeg" %}
+{% include image.html url="https://miro.medium.com/max/700/1*o_nICJx4Td1jgdCsqiquRA.jpeg" %}
+{% include image.html url="https://miro.medium.com/max/700/1*6HKMGkbGVsrB4xd3Zcc-KA.jpeg" %}
+{% include image.html url="https://miro.medium.com/max/700/1*APXTvcw6hs0j_wRi6ShdsQ.jpeg" %}

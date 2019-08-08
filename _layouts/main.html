@@ -3,13 +3,36 @@ layout: default
 ---
 
 <aside class="sidebar">
-    <header>
+   <header>
         <div class="about">        
-            <div class="cover-author-image d-block d-sm-none d-none d-md-none">
+            <div class="cover-author-image">
                 <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
             </div>
-            <div class="author-name">{{site.author}}</div>
-            <p><small>{{site.about-author}}</small></p>
+            <ul class="menu d-none d-md-block d-lg-block d-xl-block">
+                <li><a href="/">Home</a></li>
+                <li><a href="/projects">Projects</a></li>
+                <li><a href="/programming">Programming</a></li>
+                <li><a href="/drone">Drone</a></li>
+                <li><a href="/airsoft">Airsoft</a></li>
+                <li><a href="/ham-radio">Ham Radio</a></li>
+                <li><a href="/photography">Photography</a></li>
+            </ul>
+            <div class="menu-mobile menu border-top border-bottom py-2 d-block d-md-none d-lg-none d-xl-none">
+                    <a href="/">Home</a> / 
+                    <a href="/projects">Projects</a> / 
+                    <a href="/programming">Programming</a> / 
+                    <a href="/drone">Drone</a> / 
+                    <a href="/airsoft">Airsoft</a> / 
+                    <a href="/ham-radio">Ham Radio</a> / 
+                    <a href="/photography">Photography</a>
+            </div>
+            <!--
+            <div class="author-name"><a href="{{site.baseurl}}/">{{site.author}}</a></div>
+            {% if site.about-author %}
+            <p class="text-justify"><small>{{site.about-author}}</small></p>
+            {% endif %}
+            -->
+            
         </div>
     </header>
     <footer>
@@ -51,3 +74,4 @@ layout: default
 <div class="content-box clearfix">
   {{ content }}
 </div>
+
