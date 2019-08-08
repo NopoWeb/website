@@ -1,11 +1,10 @@
 ---
 layout: post
-title: How i Become a Ham
-date: 2019-02-24 12:00:00 +0300
-description: Ham is not a processed meat, it’s a person who is skilled in the Amateur Radio.
+title: How i Become a Developer
+date: 2019-01-14 12:00:00 +0300
+description: Code is Poetry
 img: https://miro.medium.com/max/700/1*cT-r0GUgJ3XI_Mwj758JAg.jpeg
-fig-caption: Wearing it Proud! DX7CBU!
-categories: [ham-radio]
+categories: [programming]
 ---
 
 My first encounter with radio goes way back to early 90's when i was still living in a rural community in Northern Mindanao *(CARAGA)*, the place is not that remote but there is no phone or cellphone *(cellphone that time is expensive and bulky)*, our neighbor who’s mom is a member of local civic-communication group called REACT.

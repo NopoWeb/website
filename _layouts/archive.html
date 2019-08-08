@@ -1,0 +1,20 @@
+---
+layout: main
+---
+{% if page.current_category %}
+    <header>
+        <h1>{{ page.title }} posts</h1>
+    </header>
+    {% for category in site.categories %}
+        {% if page.current_category == category[0] %}
+            {% for post in category[1] %}
+                {% include post-list.html post=post %}
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+{% else %}
+    {% for post in paginator.posts %}
+        {% include post-list.html post=post %}
+    {% endfor %}
+    {% include pagination.html %}
+{% endif %}
