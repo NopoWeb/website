@@ -105,3 +105,32 @@
 		}
   	}
 }
+
+.archive-page{
+	padding:0 !important;
+	width: 100%;
+	header{
+		
+		background-position: 0 0;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-color: #FFF;
+		padding:20px;
+		.inner-wrapper{
+			margin-top:200px;
+			h1{
+				background-color:rgba(0,0,0,.6);
+				color:#FFF;
+				padding:5px 6px;margin:0;
+				display: inline-block;
+			}
+			p{
+				margin-top:10px;
+				color:#FFF;
+				background-color:rgba(0,0,0,.6);
+				padding:5px;
+				display: inline-block;
+			}
+		}
+	}
+}
