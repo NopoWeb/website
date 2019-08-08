@@ -16,5 +16,15 @@ layout: main
     {% for post in paginator.posts %}
         {% include post-list.html post=post %}
     {% endfor %}
-    {% include pagination.html %}
+    {% if paginator.posts %}
+        {% include pagination.html %}
+    {% else %}
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="alert alert-secondary">No {{ page.title }} posts found!</div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
 {% endif %}
